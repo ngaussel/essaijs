@@ -1,0 +1,30 @@
+{
+  "name": "essaisigma",
+  "version": "1.0.0",
+  "description": "Some testing",
+  "main": "src/index.js",
+  "directories": {
+    "man": "man"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngaussel/essaijs.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "NG <nicolas.gaussel@metori.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngaussel/essaijs/issues"
+  },
+  "homepage": "https://github.com/ngaussel/essaijs#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
